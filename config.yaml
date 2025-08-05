@@ -1,0 +1,5 @@
+risk:
+  daily_drawdown: 4000
+  total_drawdown: 8000
+  risk_per_trade: 0.5
+  max_lot: 10 
